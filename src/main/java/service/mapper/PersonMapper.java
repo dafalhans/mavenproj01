@@ -1,7 +1,9 @@
 package service.mapper;
 
 import business.domain.PersonEntity;
+import lombok.Data;
 import service.dto.Person;
+
 
 public class PersonMapper {
 
